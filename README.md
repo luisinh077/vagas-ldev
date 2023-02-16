@@ -8,3 +8,4 @@ Tecnologias utilizadas:
 - PDO
 - XAMP
 - MySQL
+- Composer
